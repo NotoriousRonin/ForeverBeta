@@ -1,0 +1,4 @@
+C:\Users\nguye\Documents\Unreal Projects\ForeverBeta\Source\ForeverBeta2\ForeverBeta2.Build.cs
+C:\Users\nguye\Documents\Unreal Projects\ForeverBeta\Plugins\WebSocket\Source\WebSocket\WebSocket.Build.cs
+C:\Users\nguye\Documents\Unreal Projects\ForeverBeta\Source\ForeverBeta2.Target.cs
+C:\Users\nguye\Documents\Unreal Projects\ForeverBeta\Source\ForeverBeta2Editor.Target.cs

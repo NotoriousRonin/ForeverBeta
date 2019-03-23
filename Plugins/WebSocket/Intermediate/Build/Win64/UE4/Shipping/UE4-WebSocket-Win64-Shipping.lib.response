@@ -1,0 +1,9 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/LTCG
+"C:\Users\nguye\Documents\Unreal Projects\ForeverBeta\Plugins\WebSocket\Intermediate\Build\Win64\UE4\Shipping\WebSocket\Module.WebSocket.cpp.obj"
+"C:\Users\nguye\Documents\Unreal Projects\ForeverBeta\Plugins\WebSocket\Intermediate\Build\Win64\UE4\Shipping\WebSocket\Module.WebSocket.gen.cpp.obj"
+"C:\Users\nguye\Documents\Unreal Projects\ForeverBeta\Intermediate\Build\Win64\UE4\Shipping\WebSocket\PCLaunch.rc.res"
+/OUT:"C:\Users\nguye\Documents\Unreal Projects\ForeverBeta\Plugins\WebSocket\Binaries\Win64\UE4-WebSocket-Win64-Shipping.lib"
