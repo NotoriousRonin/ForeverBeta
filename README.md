@@ -27,6 +27,7 @@ It was made using Photoshop, Audacity and the Unreal Engine (only Blueprints).
 - https://opengameart.org/content/death-is-just-another-path
 - https://opengameart.org/content/smithing-sound
 - https://opengameart.org/content/foot-walking-step-sounds-on-stone-water-snow-wood-and-dirt
+
 **2. Visuals:**
 - https://opengameart.org/content/bevouliin-free-game-obstacle-spikes
 - https://opengameart.org/content/skull-monster-sprite-sheet
