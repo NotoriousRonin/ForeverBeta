@@ -13,6 +13,11 @@ It was made using Photoshop, Audacity and the Unreal Engine (only Blueprints).
 ★ Rico Eisenberg
 
 # External Resources used:
+**0. Frameworks:**
+- Unreal Engine
+- Adobe Photoshop CC
+- Audacity
+
 **1. Sounds:**
 - http://www.orangefreesounds.com/mario-jump-sound/
 - https://opengameart.org/content/falling-body
